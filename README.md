@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `30m` sample updated in sync
 
-> **Sample on GitHub** · `AUDUSD_30m.csv` (1,850 rows, `2026-07-09` -> `2026-09-02`, 188.25 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/audusd)** — **175,681** `30m` rows (full `1m`: 5,263,593), **11 timeframes**, `2012-06-24` -> `2026-09-02`.
+> **Sample on GitHub** · `AUDUSD_30m.csv` (1,848 rows, `2026-07-09` -> `2026-09-02`, 188.03 KB). **Full archive on [getdata.finance](https://getdata.finance/datasets/audusd)** — **175,681** `30m` rows (full `1m`: 5,263,475), **11 timeframes**, `2012-06-24` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,8 +45,8 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Australian Dollar / US Dollar · Forex | Australian Dollar / US Dollar · Forex |
 | Timeframes | `30m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 30m rows | 1,850 | **175,681** |
-| Size | 188.25 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/audusd) |
+| 30m rows | 1,848 | **175,681** |
+| Size | 188.03 KB | full ZIP on [getdata.finance](https://getdata.finance/datasets/audusd) |
 | Period | `2026-07-09` -> `2026-09-02` | `2012-06-24` -> `2026-09-02` |
 | File | `AUDUSD_30m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/audusd) |
 | Coverage report | — | [AUDUSD coverage](https://getdata.finance/coverage/audusd) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`AUDUSD_30m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-09T13:30:00+00:00 | 0.70777 | 0.70815 | 0.70766 | 0.70815 | 5353 |
-| 2026-07-09T14:00:00+00:00 | 0.70815 | 0.70852 | 0.70776 | 0.70817 | 5559 |
 | 2026-07-09T14:30:00+00:00 | 0.70817 | 0.70835 | 0.70767 | 0.70785 | 5077 |
 | 2026-07-09T15:00:00+00:00 | 0.70785 | 0.70848 | 0.70766 | 0.70838 | 4218 |
 | 2026-07-09T15:30:00+00:00 | 0.70838 | 0.70867 | 0.70819 | 0.7084 | 3426 |
+| 2026-07-09T16:00:00+00:00 | 0.7084 | 0.70875 | 0.70828 | 0.70836 | 2597 |
+| 2026-07-09T16:30:00+00:00 | 0.70836 | 0.7084 | 0.70811 | 0.70816 | 2102 |
 
 **Last rows**
 
